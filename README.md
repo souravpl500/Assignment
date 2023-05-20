@@ -14,33 +14,20 @@
     <td>
       <h2 align="center">User list page</h2>
     </td>
+  <td>
+      <h2 align="center">Add user page</h2>
+    </td>
   </tr>
   <tr>
     <td>
       <img src="https://i.imgur.com/3eyfcma.png" alt="User Page">
     </td>
-  </tr>  
- </table>
- 
- <br/>
- 
- <table>
-  <tr>
-    <td>
-      <h2 align="center">Add user page</h2>
-    </td>
-  </tr>
-  <tr> 
     <td>
       <img src="https://i.imgur.com/kW6bV0D.png" alt="Add User">
     </td>
   </tr>  
-  </table>
-  
-  <br/>
-  
-  <table>
   <tr>
+   <tr>
     <td>
       <h2 align="center">Update user page</h2>
     </td>
@@ -50,8 +37,9 @@
       <img src="https://i.imgur.com/7pF4blS.png" alt="Edit User">
     </td>
   </tr>
-</table>
+ </table>
 
+<br/>
 <br/>
 
 <table>
@@ -59,32 +47,18 @@
     <td>
       <h2 align="center">Postman GET request</h2>
     </td>
+ <td>
+      <h2 align="center">Postman POST request</h2>
+    </td>
   </tr>
   <tr>
     <td>
       <img src="https://i.imgur.com/2CoN2QY.png" alt="Get">
     </td>
-  </tr>  
- </table>
- 
- <br/>
- 
- <table>
-  <tr>
-    <td>
-      <h2 align="center">Postman POST request</h2>
-    </td>
-  </tr>
-  <tr> 
     <td>
       <img src="https://i.imgur.com/DAiUU3G.png" alt="Post">
     </td>
   </tr>  
-  </table>
-  
-  <br/>
-  
-  <table>
   <tr>
     <td>
       <h2 align="center">Postman PUT request</h2>
@@ -95,10 +69,10 @@
       <img src="https://i.imgur.com/zdnZoJV.png" alt="Put">
     </td>
   </tr>
-</table>
-
-<br/>
-
+ </table>
+ 
+ <br/>
+ 
 <h2>Features</h2>
 
 - View a list of users with their names, email addresses, gender, and status.
